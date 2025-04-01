@@ -1,4 +1,4 @@
-#SpringCloudNetoLess
+# SpringCloudNetoLess
 ## Задание
 Необходимо настроить Spring Cloud Config Server для получения конфигурации из репозитория. Для этого необходимо создать отдельное приложение с зависимостью spring-cloud-config-server. Проверить возвращаемые конфигурации с помощью http-запросов.
 
